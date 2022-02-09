@@ -14,5 +14,8 @@ If the Url was alreayd in the system the previous generated will be returned
 ## To run the project
 
 - Make sure to configure the name, user and pasword for your database on the .env file.
-- run the command <!-- php artisan migrate:refresh -->.
-- run the command <!-- php artisan serve --> and open the generated URL.
+- run these commands
+```
+php artisan migrate:refresh
+php artisan serve
+```
