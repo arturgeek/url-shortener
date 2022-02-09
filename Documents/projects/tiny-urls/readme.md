@@ -22,6 +22,13 @@ php artisan serve
 
 ## Screenshoots
 
+Homepage image
+- Shorten a new URL
+- Check the top 100 visited shortened URLS.
 ![Homepage](readme_images/home.jpg)
+
+When a URL is created or if already existed present the data.
 ![New tinyURL](readme_images/New_URL.JPG)
+
+Present the top 100 shortened URLs, order by the number of times each had been queried.
 ![Homepage](readme_images/top100.jpg)
