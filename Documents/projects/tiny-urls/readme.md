@@ -22,6 +22,6 @@ php artisan serve
 
 ## Screenshoots
 
-[Homepage](readme_images/home.jpg)
-[New tinyURL](readme_images/New_URL.JPG)
-[Homepage](readme_images/top100.jpg)
+![Homepage](readme_images/home.jpg)
+![New tinyURL](readme_images/New_URL.JPG)
+![Homepage](readme_images/top100.jpg)
